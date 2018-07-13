@@ -10,6 +10,7 @@ class GardenGnome
     @personality = evil
   end 
   
-  def personality = new_personality
+  def personality=(new_personality)
+    
     
     
