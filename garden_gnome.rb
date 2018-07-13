@@ -20,7 +20,15 @@ def hat_color = hat_color.new
 end 
 
 def gnome1 
-  @gnome
+  @gnome1 = "Walter the Worst"
+end 
+
+def gnome2
+  @gnome2 = "James the Jerk"
+end 
+
+def gnome3 
+  
   
 def age
   @age
