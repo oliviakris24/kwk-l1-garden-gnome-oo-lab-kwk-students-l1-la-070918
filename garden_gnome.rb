@@ -6,4 +6,4 @@ class GardenGnome
     @hat_color = hat_color
   end 
   
-  
+  def 
