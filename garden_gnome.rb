@@ -1,5 +1,5 @@
 # Code your instances here
 class GardenGnome
-  
-  def initialize(age, gluten_allergy, personality, )
+  attr_accessor :gluten_allergy
+  def initialize(personality, hat_color, )
     
