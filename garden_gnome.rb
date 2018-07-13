@@ -1,5 +1,5 @@
 # Code your instances here
 class GardenGnome
   
-  def initialize(glute)
+  def initialize(age, gluten_allergy, personality, )
     
