@@ -3,9 +3,12 @@ class GardenGnome
   
   attr_accessor :gluten_allergy
 
-def initialize(personality, hat_color)
+def initialize(personality, hat_color, gnome1)
   @personality = personality
   @hat_color = hat_color
+  @gnome1 = gnome1 
+  @gnome2 = gnome2
+  @gnome3 = gnome3
 end 
   
 def personality
@@ -15,6 +18,9 @@ end
 def hat_color = hat_color.new  
   @hat_color 
 end 
+
+def gnome1 
+  @gnome
   
 def age
   @age
