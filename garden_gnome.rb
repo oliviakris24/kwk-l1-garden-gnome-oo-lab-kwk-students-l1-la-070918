@@ -12,6 +12,8 @@ class GardenGnome
   
   def personality=(new_personality)
     @personality = new_personality
-    
+  end 
+  
+  
     
     
