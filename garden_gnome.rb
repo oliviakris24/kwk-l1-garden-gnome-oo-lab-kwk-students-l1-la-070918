@@ -20,7 +20,7 @@ def age
   @age
 end 
 
-def age=(age)
+def age = (age)
   @age = age
 end 
 
