@@ -20,7 +20,8 @@ def age
   @age
 end 
 
-
+def age=(age)
+  
 
 def gnaw
   return "Gnawing on a tree"
