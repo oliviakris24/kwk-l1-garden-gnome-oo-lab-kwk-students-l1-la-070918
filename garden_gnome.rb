@@ -10,5 +10,5 @@ class GardenGnome
     @personality = evil
   end 
   
-  def hat_color 
+  def 
     
