@@ -12,7 +12,7 @@ def personality
   @personality = evil
 end 
   
-def hat_color = hat_color.new  
+def hat_color=hat_color.new  
   @hat_color 
 end 
   
@@ -36,5 +36,7 @@ def introduce_self
     return "Hello humans, my name is #{introduce_self}, I am #{age} years old, and you'll rue the day you crossed me!"
 end 
 end 
+
+
     
     
