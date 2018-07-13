@@ -12,7 +12,7 @@ def personality
   @personality = evil
 end 
   
-def hat_color ; hat_color.new  
+def hat_color = hat_color.new  
   @hat_color 
 end 
   
@@ -20,7 +20,7 @@ def age
   @age
 end 
 
-def age ; (age)
+def age = (age)
   @age = age
 end 
 
