@@ -17,6 +17,10 @@ def hat_color = hat_color.new
 end 
   
 def age
+  @age
+end 
+
+
 
 def gnaw
   return "Gnawing on a tree"
