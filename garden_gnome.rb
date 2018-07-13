@@ -14,6 +14,14 @@ class GardenGnome
     @personality = new_personality
   end 
   
+  def gnaw
+    return "Gnawing on a tree"
+  end 
+  
+  def shout 
+    return "GNARLY"
+  end 
+  
   
     
     
