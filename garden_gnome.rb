@@ -12,7 +12,7 @@ def personality
   @personality = evil
 end 
   
-def hat_color = hat_color.new  
+def hat_color = ;hat_color.new  
   @hat_color 
 end 
   
